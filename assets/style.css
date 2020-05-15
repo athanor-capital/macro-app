@@ -1,0 +1,60 @@
+.subheading {
+    color: #0064ad;
+    display: flex;
+    justify-content: center
+}
+
+.group_header {
+    text-align: center;
+    color: #0064ad;
+    font-weight: bold;
+    position: relative;
+}
+
+.country_graph_header {
+    text-align: center;
+    position: relative;
+    margin-top: 30px;
+}
+
+.country_graph {
+    height: 250px;
+    width: 800px;
+    margin-bottom: 100px
+}
+
+.country_graphs_box {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.country-box {
+    border-bottom: 2px solid black;
+}
+
+.line0 {
+    text-align: center;
+    color: #3377b3;
+    font-weight: bold;
+}
+
+.line1 {
+    text-align: center;
+    color: #ee7d2f;
+    font-weight: bold;
+}
+
+.line2 {
+    text-align: center;
+    color: #489f2d;
+    font-weight: bold;
+}
+
+.legend {
+    display:flex;
+    width: 750px;
+    background-color: #DBF1FF;
+    justify-content: space-around;
+    margin: 0 auto;
+    position: relative
+}
